@@ -58,7 +58,7 @@ const getAirdrop = async () => {
             Swal.fire({
    title: 'Claim Success',
    icon: 'success',
-   html: '+10 METAGON sent to your wallet.',
+   html: '+5 METAGON sent to your wallet.',
    showCloseButton: true,
    showCancelButton: true,
    focusConfirm: false,
