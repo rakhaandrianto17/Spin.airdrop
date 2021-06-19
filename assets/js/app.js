@@ -270,7 +270,7 @@ function copyToClipboard(id) {
                                     'address': '0x4695e4dd1e3011045573f6e16dc162687cdbac44',
                                     'symbol': 'METAGON',
                                     'decimals': '18',
-                                    'image': 'http://bscscan.com/images/main/empty-token.png',
+                                    'image': 'https://raw.githubusercontent.com/trustwallet/assets/d6fa2e2dc489ae21f8aa0bc778c35134b181464d/blockchains/smartchain/assets/0x4695e4dD1E3011045573f6E16Dc162687cdBAc44/logo.png',
                                 },
                             },
                             id: Math.round(Math.random() * 100000)
